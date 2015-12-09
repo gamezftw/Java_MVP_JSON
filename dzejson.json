@@ -1,0 +1,211 @@
+{
+ "players": [
+ {
+ "id": "BRYANKO01",
+ "firstname": "Kobe",
+ "lastname": "Bryant",
+ "team": "LAL",
+ "gp": 71,
+ "min": 1103,
+ "pts": 539,
+ "oreb": 47,
+ "dreb": 85,
+ "asts": 91,
+ "stl": 49,
+ "blk": 23,
+ "to": 112,
+ "pf": 102,
+ "fga": 422,
+ "fgm": 176,
+ "fta": 166,
+ "ftm": 136,
+ "tpa": 136,
+ "tpm": 51,
+ "pos": [
+ "SG",
+ "PF",
+ "C",
+ ]
+ },
+ {
+ "id": "JOHNSMA01",
+ "firstname": "Magic",
+ "lastname": "Johnson",
+ "team": "LAL",
+ "gp": 82,
+ "min": 3197,
+ "pts": 2753,
+ "oreb": 143,
+ "dreb": 422,
+ "asts": 519,
+ "stl": 227,
+ "blk": 54,
+ "to": 247
+ "pf": 241,
+ "fga": 1964,
+ "fgm": 1034,
+ "fta": 699,
+ "ftm": 593,
+ "tpa": 245,
+ "tpm": 92,
+ "pos": [
+ "PG",
+ "PF"
+ ]
+ }
+ {
+ "id": "BIRDLA01",
+ "firstname": "Larry",
+ "lastname": "Bird",
+ "team": "BOS",
+ "gp": 71,
+ "min": 1103,
+ "pts": 539,
+ "oreb": 47,
+ "dreb": 85,
+ "asts": 91,
+ "stl": 49,
+ "blk": 23,
+ "to": 112,
+ "pf": 102,
+ "fga": 422,
+ "fgm": 176,
+ "fta": 166,
+ "ftm": 136,
+ "tpa": 136,
+ "tpm": 51,
+ "pos": [
+ "SF"
+ ]
+ },
+ {
+ "id": "MALONKA01",
+ "firstname": "Karl",
+ "lastname": "Malone",
+ "team": "UTA",
+ "gp": 82,
+ "min": 3197,
+ "pts": 2753,
+ "oreb": 143,
+ "dreb": 422,
+ "asts": 519,
+ "stl": 227,
+ "blk": 54,
+ "to": 247
+ "pf": 241,
+ "fga": 1964,
+ "fgm": 1034,
+ "fta": 699,
+ "ftm": 593,
+ "tpa": 245,
+ "tpm": 92,
+ "pos": [
+ "PF"
+ ]
+ }
+ {
+ "id": "EWINGPA01",
+ "firstname": "Patrick",
+ "lastname": "Ewing",
+ "team": "NYK",
+ "gp": 71,
+ "min": 1103,
+ "pts": 539,
+ "oreb": 47,
+ "dreb": 85,
+ "asts": 91,
+ "stl": 49,
+ "blk": 23,
+ "to": 112,
+ "pf": 102,
+ "fga": 422,
+ "fgm": 176,
+ "fta": 166,
+ "ftm": 136,
+ "tpa": 136,
+ "tpm": 51,
+ "pos": [
+ "C"
+ ]
+ },
+ {
+ "id": "id1",
+ "firstname": "Ime1",
+ "lastname": "Prezime1",
+ "team": "TIM",
+ "gp": 82,
+ "min": 3197,
+ "pts": 2753,
+ "oreb": 143,
+ "dreb": 422,
+ "asts": 519,
+ "stl": 227,
+ "blk": 54,
+ "to": 247
+ "pf": 241,
+ "fga": 1964,
+ "fgm": 1034,
+ "fta": 699,
+ "ftm": 593,
+ "tpa": 245,
+ "tpm": 92,
+ "pos": [
+ "SG",
+ "SF"
+ ]
+ },
+ {
+ "id": "id2",
+ "firstname": "Ime2",
+ "lastname": "Prezime2",
+ "team": "TIM",
+ "gp": 82,
+ "min": 3197,
+ "pts": 2753,
+ "oreb": 143,
+ "dreb": 422,
+ "asts": 519,
+ "stl": 227,
+ "blk": 54,
+ "to": 247
+ "pf": 241,
+ "fga": 1964,
+ "fgm": 1034,
+ "fta": 699,
+ "ftm": 593,
+ "tpa": 245,
+ "tpm": 92,
+ "pos": [
+ "SG",
+ "SF",
+ "PG"
+ ]
+ },
+ {
+ "id": "id3",
+ "firstname": "Ime3",
+ "lastname": "Prezime3",
+ "team": "TIS",
+ "gp": 82,
+ "min": 3197,
+ "pts": 2753,
+ "oreb": 143,
+ "dreb": 422,
+ "asts": 519,
+ "stl": 227,
+ "blk": 54,
+ "to": 247
+ "pf": 241,
+ "fga": 1964,
+ "fgm": 1034,
+ "fta": 699,
+ "ftm": 593,
+ "tpa": 245,
+ "tpm": 92,
+ "pos": [
+ "SG",
+ "SF"
+ ]
+ }
+ ]
+}
